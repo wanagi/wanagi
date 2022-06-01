@@ -1,5 +1,8 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/kelvin-kariuki">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,12 +25,8 @@
   </h1>
   
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
 
-### 🧔‍ About Me :
+### 🧔‍ Kelvin Kioi is my name.
 <!--A dedicated Application Developer adept at creating new programs and solutions that can be used to solve real life problems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 I'm an all rounded tech enthusiast in the IT industry knowledgable and skilled in but not limited to Netwotk Engineering/Admin, Android Applicatioins Development, Computer Engineering, Systems Admin e.t.c.
 - 👨‍💻 Currently working as a Network Engineer at Adrian Kenya.
