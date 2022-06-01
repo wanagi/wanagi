@@ -8,7 +8,7 @@
     <a href="https://twitter.com/wa_nagi">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="kevokevisme@gmail.com">
+    <a href="mailTo:kevokevisme@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
@@ -27,15 +27,16 @@
 </div>
 ---
 
-### :man_technologist: About Me :
-A dedicated Application Developer adept at creating new programs and solutions that can be used to solve real life problems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### 🧔‍ About Me :
+<!--A dedicated Application Developer adept at creating new programs and solutions that can be used to solve real life problems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+I'm an all rounded tech enthusiast in the IT industry knowledgable and skilled in but not limited to Netwotk Engineering/Admin, Android Applicatioins Development, Computer Engineering, Systems Admin e.t.c.
+- 👨‍💻 Currently working as a Network Engineer at Adrian Kenya.
 
-- :seedling: Exploring Technical Content Writing.
+<!-- - :seedling: Exploring Technical Content Writing. -->
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I love to learn something new or upskilling and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kelvin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-kariuki)
+- :mailbox: I'm available to answer your android related questions on any platform.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
